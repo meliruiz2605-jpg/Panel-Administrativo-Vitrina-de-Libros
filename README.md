@@ -1,4 +1,4 @@
-# Panel de Administración — Editorial Demo
+# Panel de Administración — Editorial 
 
 Panel administrativo en PHP para la gestión del catálogo de libros de un sitio web editorial. Permite agregar, editar, eliminar y ordenar los libros que se muestran en la vitrina pública del sitio.
 
